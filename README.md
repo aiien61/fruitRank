@@ -28,7 +28,7 @@ run_fruitRank()
 
 1. [衛生福利部國民健康署](http://www.hpa.gov.tw/BHPNet/Web/healthtopic/TopicArticle.aspx?No=201308300011&parentid=201205100003)
 
-#  分數計算說明
+# 分數計算說明
 
 參考衛生福利部國民健康署提供之『國人膳食營養素參考攝取量』，制定男女各年齡層及身孕狀況之每日各營養素建議量(**表1**)。
 
